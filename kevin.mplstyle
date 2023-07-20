@@ -51,7 +51,7 @@ font.size: 10
 
 # Font Family
 font.family: sans-serif
-font.sans-serif: IBM Plex Sans, Roboto, Helvetica
+font.sans-serif: CMU Sans Serif, IBM Plex Sans, Roboto, Helvetica
 mathtext.fontset : dejavusans
 
 # LaTeX packages
